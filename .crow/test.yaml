@@ -1,0 +1,6 @@
+steps:
+  - name: step1
+    image: bash
+    commands:
+      - sleep 10
+      - pwd
